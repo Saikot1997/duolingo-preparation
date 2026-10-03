@@ -1,6 +1,6 @@
 # Duolingo English Test Prep
 
-# 👉 [**Open the website: saikot1997.github.io/duolingo-preparation**](https://saikot1997.github.io/duolingo-preparation/)
+# 👉 Open the website: `https://saikot1997.github.io/duolingo-preparation/`
 
 Free practice site for the Duolingo English Test (DET). It covers all 13 official task types, plus Grammar, Vocabulary and Pronunciation practice, a Mock Test, a 4-week study plan and a scoring guide.
 
